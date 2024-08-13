@@ -1,0 +1,14 @@
+C:\Users\daniel.snascimento15\source\repos\AprendendoCsharp\Ex_01\bin\Debug\Ex_01.exe.config
+C:\Users\daniel.snascimento15\source\repos\AprendendoCsharp\Ex_01\bin\Debug\Ex_01.exe
+C:\Users\daniel.snascimento15\source\repos\AprendendoCsharp\Ex_01\bin\Debug\Ex_01.pdb
+C:\Users\daniel.snascimento15\source\repos\AprendendoCsharp\Ex_01\obj\Debug\Ex_01.csproj.AssemblyReference.cache
+C:\Users\daniel.snascimento15\source\repos\AprendendoCsharp\Ex_01\obj\Debug\Ex_01.csproj.CoreCompileInputs.cache
+C:\Users\daniel.snascimento15\source\repos\AprendendoCsharp\Ex_01\obj\Debug\Ex_01.exe
+C:\Users\daniel.snascimento15\source\repos\AprendendoCsharp\Ex_01\obj\Debug\Ex_01.pdb
+C:\Users\daniel.snascimento15\source\AprendendoCsharp-12-08-24\Ex_01\bin\Debug\Ex_01.exe.config
+C:\Users\daniel.snascimento15\source\AprendendoCsharp-12-08-24\Ex_01\bin\Debug\Ex_01.exe
+C:\Users\daniel.snascimento15\source\AprendendoCsharp-12-08-24\Ex_01\bin\Debug\Ex_01.pdb
+C:\Users\daniel.snascimento15\source\AprendendoCsharp-12-08-24\Ex_01\obj\Debug\Ex_01.csproj.AssemblyReference.cache
+C:\Users\daniel.snascimento15\source\AprendendoCsharp-12-08-24\Ex_01\obj\Debug\Ex_01.csproj.CoreCompileInputs.cache
+C:\Users\daniel.snascimento15\source\AprendendoCsharp-12-08-24\Ex_01\obj\Debug\Ex_01.exe
+C:\Users\daniel.snascimento15\source\AprendendoCsharp-12-08-24\Ex_01\obj\Debug\Ex_01.pdb
